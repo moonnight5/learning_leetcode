@@ -26,9 +26,9 @@ var addTwoNumbers = function (l1, l2) {
     b.push(newL2.val);
     newL2 = newL2.next;
   }
-  console.log(a, b)
-  a.reverse();
-  b.reverse();
+  // console.log(a, b)
+  // a.reverse();
+  // b.reverse();
   // console.log(a, b)
 
   let ans = []; //两位相加的结果
